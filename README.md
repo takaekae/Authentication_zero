@@ -6,7 +6,8 @@
 ## Usage
 `$ rails generate authentication`
 
-### Demo
+## Steps
+`Rails db:migrate`
 
 
 
