@@ -1,24 +1,19 @@
-# README
+## Installation 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+`$ bundle add authentication-zero`
 
-Things you may want to cover:
 
-* Ruby version
+## Usage
+`$ rails generate authentication`
 
-* System dependencies
+### Demo
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+### Source 
+https://github.com/lazaronixon/authentication-zero
